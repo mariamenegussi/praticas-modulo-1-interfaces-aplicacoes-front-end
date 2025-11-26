@@ -1,0 +1,34 @@
+.topo {
+  height: 64px;
+  background-color: #333333;
+  text-align: center;
+}
+
+.imagem-topo {
+  background-color: #333333;
+}
+
+.meme {
+  width: 640px;
+  height: auto;
+  background-color: #fff;
+  margin: 30px auto auto auto;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  box-shadow: 2px 2px 8px lightgray;
+}
+.imagem-meme {
+  width: 640px;
+}
+
+.titulo-meme {
+  font-size: 48px;
+  font-weight: bold;
+  color: #aa4653;
+  margin: 30px;
+}
+
+.legenda-meme {
+  color: #000000;
+  margin: auto 30px 30px 30px;
+}
