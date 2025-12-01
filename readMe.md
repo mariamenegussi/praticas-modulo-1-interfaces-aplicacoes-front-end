@@ -1,0 +1,1 @@
+Este é um Layout de uma versão simplificada da home da Globo.com, utilizando HTML e CSS.
